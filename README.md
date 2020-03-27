@@ -80,4 +80,4 @@ npm run build myServerConfig
 
 ## Logger
 
-see comments in [src/interfaces/consoleLogger.js](./src/interfaces/consoleLogger.js)
+see comments in [src/services/consoleLogger.service.js](./src/services/consoleLogger.service.js)

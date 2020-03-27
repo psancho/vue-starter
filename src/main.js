@@ -5,7 +5,7 @@ import App from './App.vue'
 import config from 'config'
 import router from './router'
 import store from './store'
-import api from './interfaces/apiInterface'
+import api from './services/api.service'
 
 // prevents from display notice about running in dev mode
 Vue.config.productionTip = false

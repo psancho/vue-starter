@@ -115,7 +115,7 @@ module.exports = {
     resolve: {
         alias: {
             config$: configPath,
-            logger$: path.resolve(__dirname, 'src/interfaces/consoleLogger.js'),
+            logger$: path.resolve(__dirname, 'src/services/consoleLogger.service.js'),
         }
     }
 };
